@@ -7,8 +7,8 @@
 ### 🚀 Flutter Developer | Mobile Apps Enthusiast
 
 💙 I build cross-platform mobile applications using Flutter  
-🎯 Focused on clean architecture & smooth UI  
-🔥 Always improving my problem-solving skills  
+🎯 Focused on Clean Code & scalable architecture  
+🔥 Passionate about problem solving and performance optimization  
 
 </div>
 
@@ -26,6 +26,18 @@
 
 ---
 
+## 🧠 Core Skills
+
+- ✅ Clean Code
+- ✅ SOLID Principles
+- ✅ Design Patterns (MVVM, Repository, Bloc)
+- ✅ Problem Solving
+- ✅ State Management (Bloc / Cubit)
+- ✅ REST APIs Integration
+- ✅ Scalable Architecture
+
+---
+
 ## 👨‍💻 About Me
 
 ```dart
@@ -33,37 +45,16 @@ class AbdullahAkl {
 
   final String role = "Flutter Developer";
 
-  final List<String> skills = [
-    "Flutter",
-    "Dart",
-    "Firebase",
-    "State Management (Bloc / Cubit)",
+  final List<String> expertise = [
+    "Clean Code",
+    "SOLID Principles",
+    "Design Patterns",
+    "Problem Solving",
+    "State Management (Bloc/Cubit)",
     "REST APIs",
-    "Clean Architecture"
+    "Scalable Architecture"
   ];
 
-  final String passion = "Building beautiful & scalable mobile apps 💙";
+  final String passion =
+      "Building beautiful, maintainable & high-performance mobile apps 💙";
 }
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%"/> </div>
-🔥 What I'm Working On
-
-📱 Building scalable Flutter apps
-
-🎨 Improving UI/UX skills
-
-🧠 Learning advanced state management
-
-📫 Connect With Me
-
-💼 LinkedIn: (حط اللينك بتاعك)
-
-📧 Email: (حط ايميلك)
-
-🌍 Portfolio: (لو عندك)
-
-<div align="center">
-
-✨ “Code. Debug. Improve. Repeat.” ✨
-
-</div> ```
