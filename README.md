@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
-<br>
+  <img src="https://via.placeholder.com/400x150?text=Abdullah+Akl" width="60%"/>
 
 # 👋 Abdullah Akl
 ### 🚀 Flutter Developer | Mobile Apps Enthusiast
@@ -36,7 +35,36 @@
 - ✅ REST APIs Integration  
 - ✅ Scalable Architecture  
 
+
 ---
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aklabdallah117@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdallah-akl117">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/AbdallahAkl7">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/abddalla.akl17/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/abdallah.abdelwhab.akl">
+  <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+</a>
+
+</div>
+
 
 ## 👨‍💻 About Me
 
