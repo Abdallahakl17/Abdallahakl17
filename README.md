@@ -44,3 +44,26 @@ class AbdullahAkl {
 
   final String passion = "Building beautiful & scalable mobile apps 💙";
 }
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%"/> </div>
+🔥 What I'm Working On
+
+📱 Building scalable Flutter apps
+
+🎨 Improving UI/UX skills
+
+🧠 Learning advanced state management
+
+📫 Connect With Me
+
+💼 LinkedIn: (حط اللينك بتاعك)
+
+📧 Email: (حط ايميلك)
+
+🌍 Portfolio: (لو عندك)
+
+<div align="center">
+
+✨ “Code. Debug. Improve. Repeat.” ✨
+
+</div> ```
