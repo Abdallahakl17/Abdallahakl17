@@ -28,13 +28,13 @@
 
 ## 🧠 Core Skills
 
-- ✅ Clean Code
-- ✅ SOLID Principles
-- ✅ Design Patterns (MVVM, Repository, Bloc)
-- ✅ Problem Solving
-- ✅ State Management (Bloc / Cubit)
-- ✅ REST APIs Integration
-- ✅ Scalable Architecture
+- ✅ Clean Code  
+- ✅ SOLID Principles  
+- ✅ Design Patterns (MVVM, Repository, Bloc)  
+- ✅ Problem Solving  
+- ✅ State Management (Bloc / Cubit)  
+- ✅ REST APIs Integration  
+- ✅ Scalable Architecture  
 
 ---
 
