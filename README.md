@@ -42,24 +42,24 @@
 
 <div align="center">
 
-<a href="mailto:aklabdallah117@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+<a href="https://mail.google.com/mail/?view=cm&to=aklabdallah117@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abdallah-akl117">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/AbdallahAkl7">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X / Twitter"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/abddalla.akl17/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/abdallah.abdelwhab.akl">
-  <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  <img src="https://skillicons.dev/icons?i=facebook" height="45" alt="Facebook"/>
 </a>
 
 </div>
