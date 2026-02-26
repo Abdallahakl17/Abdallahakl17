@@ -1,6 +1,7 @@
 <div align="center">
 
-<a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2026/02/25/flamingtext_com_1772063714_826886195.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+  <img src="images/Developer.gif" width="30%" alt="Abdullah Akl Animated Logo"/>
+
  # 👋 Abdullah Akl
 ### 🚀 Flutter Developer | Mobile Apps Enthusiast
 
