@@ -20,6 +20,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat)
 ![REST API](https://img.shields.io/badge/REST-API-green)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -33,10 +34,11 @@
 - ✅ OOP
 - ✅ Architectural Patterns (MVVM, Clean Architecture)
 - ✅ Repository Pattern
+- ✅ Dependency Injection (GetIt)
 - ✅ Service Locator Pattern
 - ✅ State Management (Bloc / Cubit)
 - ✅ REST APIs Integration
-- ✅ Firebase
+- ✅ Networking with Dio
 - ✅ Local Storage (SQLite / SharedPreferences)
 - ✅ Scalable Architecture
 - ✅ Feature-Based Project Structure
@@ -47,6 +49,7 @@
 - ✅ Debugging & Performance Optimization
 - ✅ Problem Solving
 - ✅ Data Structures & Algorithms
+
 ---
 
 ## 🤝 Let's Connect
@@ -57,18 +60,22 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/abdallah-akl117">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://x.com/AbdallahAkl7">
   <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X / Twitter"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/abddalla.akl17/">
   <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/abdallah.abdelwhab.akl">
   <img src="https://skillicons.dev/icons?i=facebook" height="45" alt="Facebook"/>
 </a>
@@ -92,10 +99,14 @@ class AbdullahAkl {
     "Service Locator Pattern",
     "REST APIs",
     "Firebase",
+    "Local Storage",
     "SOLID Principles",
     "Git & GitHub Workflow",
     "Problem Solving"
   ];
+
+  final String currentlyLearning =
+      "Advanced Software Architecture & Design Patterns";
 
   final String passion =
       "Building scalable, maintainable, and high-performance mobile applications 💙";
