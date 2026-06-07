@@ -2,12 +2,13 @@
 
   <img src="images/Developer.gif" width="25%" alt="Abdullah Akl Animated Logo"/>
 
- # 👋 Abdullah Akl
+# 👋 Abdullah Akl
+
 ### 🚀 Flutter Developer | Mobile Apps Enthusiast
 
 💙 I build cross-platform mobile applications using Flutter  
-🎯 Focused on Clean Code & scalable architecture  
-🔥 Passionate about problem solving and performance optimization  
+🎯 Focused on scalable architecture, clean code, and best software engineering practices  
+🔥 Passionate about problem solving, performance optimization, and creating maintainable applications
 
 </div>
 
@@ -27,17 +28,21 @@
 
 ## 🧠 Core Skills
 
-- ✅ Clean Code  
-- ✅ SOLID Principles  
-- ✅ Design Patterns (MVVM, Repository, Bloc)  
-- ✅ Problem Solving  
-- ✅ State Management (Bloc / Cubit)  
-- ✅ REST APIs Integration  
-- ✅ Scalable Architecture  
-
+- ✅ Clean Code
+- ✅ SOLID Principles
+- ✅ Design Patterns (MVVM, Repository, Bloc)
+- ✅ Clean Architecture
+- ✅ Dependency Injection (GetIt)
+- ✅ Service Locator Pattern
+- ✅ State Management (Bloc / Cubit)
+- ✅ REST APIs Integration
+- ✅ Scalable Architecture
+- ✅ Git & GitHub Workflow
+- ✅ Branching Strategy
+- ✅ Pull Requests
+- ✅ Problem Solving
 
 ---
-
 
 ## 🤝 Let's Connect
 
@@ -65,24 +70,28 @@
 
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
 ```dart
 class AbdullahAkl {
-
   final String role = "Flutter Developer";
 
   final List<String> expertise = [
-    "Clean Code",
-    "SOLID Principles",
-    "Design Patterns",
-    "Problem Solving",
-    "State Management (Bloc/Cubit)",
+    "Flutter & Dart",
+    "Bloc/Cubit",
+    "Clean Architecture",
+    "MVVM & Repository Pattern",
+    "Dependency Injection",
+    "Service Locator Pattern",
     "REST APIs",
-    "Scalable Architecture"
+    "Firebase",
+    "SOLID Principles",
+    "Git & GitHub Workflow",
+    "Problem Solving"
   ];
 
   final String passion =
-      "Building beautiful, maintainable & high-performance mobile apps 💙";
+      "Building scalable, maintainable, and high-performance mobile applications 💙";
 }
