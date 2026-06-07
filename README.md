@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/Developer.gif" width="20%" alt="Abdullah Akl Animated Logo"/>
+  <img src="images/Developer.gif" width="25%" alt="Abdullah Akl Animated Logo"/>
 
  # 👋 Abdullah Akl
 ### 🚀 Flutter Developer | Mobile Apps Enthusiast
