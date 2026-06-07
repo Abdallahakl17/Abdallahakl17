@@ -30,18 +30,23 @@
 
 - ✅ Clean Code
 - ✅ SOLID Principles
-- ✅ Design Patterns (MVVM, Repository, Bloc)
-- ✅ Clean Architecture
-- ✅ Dependency Injection (GetIt)
+- ✅ OOP
+- ✅ Architectural Patterns (MVVM, Clean Architecture)
+- ✅ Repository Pattern
 - ✅ Service Locator Pattern
 - ✅ State Management (Bloc / Cubit)
 - ✅ REST APIs Integration
+- ✅ Firebase
+- ✅ Local Storage (SQLite / SharedPreferences)
 - ✅ Scalable Architecture
+- ✅ Feature-Based Project Structure
+- ✅ Responsive UI & Adaptive UI
 - ✅ Git & GitHub Workflow
 - ✅ Branching Strategy
 - ✅ Pull Requests
+- ✅ Debugging & Performance Optimization
 - ✅ Problem Solving
-
+- ✅ Data Structures & Algorithms
 ---
 
 ## 🤝 Let's Connect
