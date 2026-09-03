@@ -34,7 +34,7 @@
 - ✅ OOP
 - ✅ Architectural Patterns (MVVM, Clean Architecture)
 - ✅ Repository Pattern
-- ✅ Dependency Injection (GetIt)
+- ✅ Dependency Injection (GetIt,Injectable)
 - ✅ Service Locator Pattern
 - ✅ State Management (Bloc / Cubit)
 - ✅ REST APIs Integration
